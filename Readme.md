@@ -8,5 +8,5 @@ WIP. Port of https://github.com/menloparkinnovation/menlo_gigatron by menloparki
 
 ___
 
-Port to Poseidon by: [turri21](https://github.com/turri21)
+Port to Poseidon-ep4cgx150 by: [turri21](https://github.com/turri21)
 
