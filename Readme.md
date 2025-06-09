@@ -1,5 +1,7 @@
 # Gigatron Poseidon-ep4cgx150
 
+Forked from: https://github.com/sajattack/Gigatron_MiSTer
+
 Port to MiSTer by: [sajattack](https://github.com/sajattack) and [JasonA-dev](https://github.com/JasonA-dev)
 
 Port to Poseidon by: [turri21](https://github.com/turri21)
